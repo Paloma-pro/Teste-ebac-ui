@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Helena Hooded Fleece",
+        "tamanho": "XS",
+        "cor": "Yellow",
+        "quantidade": "4"
+    },
+    {
+        "nomeProduto": "Stellar Solar Jacket",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": "2"
+    },
+    {
+        "nomeProduto": "Arcadio Gym Short",
+        "tamanho": "32",
+        "cor": "Black",
+        "quantidade": "8"
+    }
+]
